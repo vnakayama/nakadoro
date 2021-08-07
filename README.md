@@ -1,4 +1,4 @@
-# nakadoro
+# nakadoro - a pomodoro webapp by nakassauro
 
 ## Build Setup
 
